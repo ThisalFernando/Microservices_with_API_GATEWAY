@@ -24,11 +24,7 @@ Start in background (detached mode).
 ```bash
 docker-compose up -d 
 ```
-Start in background (detached mode). 
 
-```bash
-docker-compose up -d 
-```
 View running containers . 
 
 ```bash
