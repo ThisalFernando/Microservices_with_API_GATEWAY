@@ -56,28 +56,34 @@ GET http://localhost:8080/items
 ![Evidence 02](https://res.cloudinary.com/fmart/image/upload/v1772496001/Screenshot_2026-03-03_050509_grvzx7.png)
 
 ``
+GET http://localhost:8080/items'{id}
+``
+
+![Evidence 03](https://res.cloudinary.com/fmart/image/upload/v1772496859/Screenshot_2026-03-03_054357_nyybph.png)
+
+``
 POST http://localhost:8080/orders
 ``
 
-![Evidence 03](https://res.cloudinary.com/fmart/image/upload/v1772496001/Screenshot_2026-03-03_050544_m1n0ju.png)
+![Evidence 04](https://res.cloudinary.com/fmart/image/upload/v1772496001/Screenshot_2026-03-03_050544_m1n0ju.png)
 
 ``
 GET http://localhost:8080/orders/{id}
 ``
 
-![Evidence 04](https://res.cloudinary.com/fmart/image/upload/v1772496000/Screenshot_2026-03-03_050620_jfgmie.png)
+![Evidence 05](https://res.cloudinary.com/fmart/image/upload/v1772496000/Screenshot_2026-03-03_050620_jfgmie.png)
 
 ``
 POST http://localhost:8080/payments/process
 ``
 
-![Evidence 05](https://res.cloudinary.com/fmart/image/upload/v1772495999/Screenshot_2026-03-03_050714_tdwwhq.png)
+![Evidence 06](https://res.cloudinary.com/fmart/image/upload/v1772495999/Screenshot_2026-03-03_050714_tdwwhq.png)
 
 ``
 GET http://localhost:8080/payments/{id}
 ``
 
-![Evidence 06](https://res.cloudinary.com/fmart/image/upload/v1772495877/Screenshot_2026-03-03_050751_qycggk.png)
+![Evidence 07](https://res.cloudinary.com/fmart/image/upload/v1772495877/Screenshot_2026-03-03_050751_qycggk.png)
 
 ## GitHub Repository Link
 
