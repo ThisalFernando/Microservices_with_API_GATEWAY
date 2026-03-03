@@ -56,7 +56,7 @@ GET http://localhost:8080/items
 ![Evidence 02](https://res.cloudinary.com/fmart/image/upload/v1772496001/Screenshot_2026-03-03_050509_grvzx7.png)
 
 ``
-GET http://localhost:8080/items'{id}
+GET http://localhost:8080/items/{id}
 ``
 
 ![Evidence 03](https://res.cloudinary.com/fmart/image/upload/v1772496859/Screenshot_2026-03-03_054357_nyybph.png)
